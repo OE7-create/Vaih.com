@@ -1,18 +1,17 @@
-# Ignorar carpetas del sistema y otras innecesarias
-node_modules/
-.vscode/
-AppData/
-Contacts/
-Downloads/
-Favorites/
-Links/
-Music/
-OneDrive/
-Pictures/
-Saved Games/
-Searches/
-Videos/
-NTUSER.DAT*
+# Ignore system directories and personal files
+/.vscode/
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/OneDrive/
+/Videos/
+
+# Ignore specific file types
+*.LOG
+*.ini
+*.DAT
 *.blf
 *.regtrans-ms
-
