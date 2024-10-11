@@ -1,0 +1,18 @@
+# Ignorar carpetas del sistema y otras innecesarias
+node_modules/
+.vscode/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+NTUSER.DAT*
+*.blf
+*.regtrans-ms
+
